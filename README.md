@@ -5,9 +5,9 @@
 Student Database Management system - will have all respective header files,.cpp files, test files and will collects data(USING CONCEPT OF INHERITANCE, VIRTUAL FUNCTIONS ETC) and implement concepts of IPC like API's from Semaphore, Mutex, Pipes and Shared Memory
 
 
-|Build|Unit Test|cppcheck|Valgrind|Codacy|
+|Build|cppcheck|Valgrind|Codacy|
 |:--:|:--:|:--:|:--:|:--:|
 |![C/C++ CI]
-![cppcheck-action](https://github.com/99002458/CPP-LINUX_MiniProject/workflows/cppcheck-action/badge.svg?branch=master)
-![C/C++ CI](https://github.com/99002458/CPP-LINUX_MiniProject/workflows/C/C++%20CI/badge.svg?branch=master)
-![Valgrind](https://github.com/99002458/CPP-LINUX_MiniProject/workflows/Valgrind/badge.svg?branch=master)
+(https://github.com/99002458/CPP-LINUX_MiniProject/workflows/cppcheck-action/badge.svg?branch=master)![cppcheck-action]
+(https://github.com/99002458/CPP-LINUX_MiniProject/workflows/C/C++%20CI/badge.svg?branch=master)![C/C++ CI]
+(https://github.com/99002458/CPP-LINUX_MiniProject/workflows/Valgrind/badge.svg?branch=master)![Valgrind]
