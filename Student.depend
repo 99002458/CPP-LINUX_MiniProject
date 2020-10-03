@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1601545826 source:/home/user/Desktop/Genesis_Shrikant_Training/Mini_project/Student/student.cpp
+	"student.h"
+	<string>
+
+1601545777 /home/user/Desktop/Genesis_Shrikant_Training/Mini_project/Student/student.h
+	<string>
+
+1601544375 source:/home/user/Desktop/Genesis_Shrikant_Training/Mini_project/Student/highSchoolStudent.cpp
+	<string>
+	"student.h"
+	"highSchoolStudent.h"
+
+1601544875 /home/user/Desktop/Genesis_Shrikant_Training/Mini_project/Student/highSchoolStudent.h
+	<string>
+	"student.h"
+
+1601545099 source:/home/user/Desktop/Genesis_Shrikant_Training/Mini_project/Student/main.cpp
+	"student.h"
+	"highSchoolStudent.h"
+	"studentDB.h"
+	<gtest/gtest.h>
+
+1601697796 source:/home/user/Desktop/Genesis_Shrikant_Training/Mini_project/Student/studentDB.cpp
+	"highSchoolStudent.h"
+	"student.h"
+	"studentDB.h"
+	<string>
+	<list>
+	<iterator>
+	<thread>
+	<semaphore.h>
+	<iostream>
+
+1601542643 /home/user/Desktop/Genesis_Shrikant_Training/Mini_project/Student/studentDB.h
+	<string>
+	<cstdint>
+	"student.h"
+	"highSchoolStudent.h"
+	<list>
+	<iterator>
+
+1601546284 source:/home/user/Desktop/Genesis_Shrikant_Training/Mini_project/Student/student-test.cpp
+	"student.h"
+	"highSchoolStudent.h"
+	"studentDB.h"
+	<gtest/gtest.h>
+
+1601698844 source:/home/user/Desktop/Genesis_Shrikant_Training/Mini_project/Student/student-testDB.cpp
+	"student.h"
+	"highSchoolStudent.h"
+	"studentDB.h"
+	<gtest/gtest.h>
+	<iostream>
+	<pthread.h>
+	<semaphore.h>
+	<list>
+	<iterator>
+	<cstdint>
+
