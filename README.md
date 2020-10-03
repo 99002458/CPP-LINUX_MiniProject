@@ -6,8 +6,8 @@ Student Database Management system - will have all respective header files,.cpp 
 
 
 |Build|cppcheck|Valgrind|Codacy|
-|:--:|:--:|:--:|:--:|:--:|
-|![C/C++ CI]
-(https://github.com/99002458/CPP-LINUX_MiniProject/workflows/cppcheck-action/badge.svg?branch=master)![cppcheck-action]
-(https://github.com/99002458/CPP-LINUX_MiniProject/workflows/C/C++%20CI/badge.svg?branch=master)![C/C++ CI]
-(https://github.com/99002458/CPP-LINUX_MiniProject/workflows/Valgrind/badge.svg?branch=master)![Valgrind]
+|:--:|:--:|:--:|:--:|
+
+|![C/C++ CI](https://github.com/99002458/CPP-LINUX_MiniProject/workflows/C/C++%20CI/badge.svg?branch=master)
+![cppcheck-action](https://github.com/99002458/CPP-LINUX_MiniProject/workflows/cppcheck-action/badge.svg?branch=master)
+![Valgrind](https://github.com/99002458/CPP-LINUX_MiniProject/workflows/Valgrind/badge.svg?branch=master)
