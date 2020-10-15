@@ -7,7 +7,6 @@ HighSchoolStudent::HighSchoolStudent():Student(),grade(""),
     address(""),
     busDistance(0){}
 
-
 HighSchoolStudent::HighSchoolStudent(int ID, std::string name, double percentage, std::string gender,std::string grade,std::string address,int distance):
     Student(ID,name,percentage,gender),grade(grade),address(address),busDistance(distance){
 
